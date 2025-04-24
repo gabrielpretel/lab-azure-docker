@@ -1,0 +1,119 @@
+@font-face {
+  font-family: 'Editors Note';
+  src:
+    url('@/assets/fonts/EditorsNote-Regular.woff2') format('woff2'),
+    url('@/assets/fonts/EditorsNote-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Editors Note';
+  src:
+    url('@/assets/fonts/EditorsNote-Bold.woff2') format('woff2'),
+    url('@/assets/fonts/EditorsNote-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Editors Note';
+  src:
+    url('@/assets/fonts/EditorsNote-Thin.woff2') format('woff2'),
+    url('@/assets/fonts/EditorsNote-Thin.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Editors Note';
+  src:
+    url('@/assets/fonts/EditorsNote-Medium.woff2') format('woff2'),
+    url('@/assets/fonts/EditorsNote-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Editors Note';
+  src:
+    url('@/assets/fonts/EditorsNote-Semibold.woff2') format('woff2'),
+    url('@/assets/fonts/EditorsNote-Semibold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Editors Note';
+  src:
+    url('@/assets/fonts/EditorsNote-Light.woff2') format('woff2'),
+    url('@/assets/fonts/EditorsNote-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Anderson Grotesk';
+  src:
+    url('@/assets/fonts/AndersonGroteskBold.woff2') format('woff2'),
+    url('@/assets/fonts/AndersonGroteskBold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Anderson Grotesk';
+  src:
+    url('@/assets/fonts/AndersonGroteskLight.woff2') format('woff2'),
+    url('@/assets/fonts/AndersonGroteskLight.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Anderson Grotesk';
+  src:
+    url('@/assets/fonts/AndersonGroteskOblique.woff2') format('woff2'),
+    url('@/assets/fonts/AndersonGroteskOblique.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Anderson Grotesk';
+  src:
+    url('@/assets/fonts/AndersonGroteskRegular.woff2') format('woff2'),
+    url('@/assets/fonts/AndersonGroteskRegular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Anderson Grotesk';
+  src:
+    url('@/assets/fonts/AndersonGroteskBoldOblique.woff2') format('woff2'),
+    url('@/assets/fonts/AndersonGroteskBoldOblique.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Anderson Grotesk';
+  src:
+    url('@/assets/fonts/AndersonGroteskLightOblique.woff2') format('woff2'),
+    url('@/assets/fonts/AndersonGroteskLightOblique.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
